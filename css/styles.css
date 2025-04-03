@@ -22,4 +22,10 @@ h2 {
     font-size: large;
   }
 
- 
+ button{
+  padding: 5px;
+  margin: 5px;
+  background-color: crimson;
+  border-radius: 5px;
+  font-size: larger;
+ }

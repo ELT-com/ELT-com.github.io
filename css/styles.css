@@ -29,6 +29,12 @@ h2 {
     font-size: large;
   }
 
+h3 {
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+}
+
  button{
   padding: 5px;
   margin: 5px;
@@ -45,4 +51,26 @@ h2 {
 img.Logo {
     width: 400px;
     height: 100px;
+}
+
+  table.rank {
+  background-color: darkslategray;
+  padding: 10px;
+  border-radius: 10px;
+  border-color: lightblue;
+}
+
+table.cars {
+    background-color: darkslategray;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+    color: lightblue;
+}
+h2.brands {
+  color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
 }

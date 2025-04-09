@@ -1,4 +1,10 @@
-
+header {
+    background-color: lightblue;
+    padding: 10px;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: crimson;
+}
 body {
     background-color: gray;
     font-family: Arial, Helvetica, sans-serif;
@@ -74,3 +80,4 @@ h2.brands {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 50px;
 }
+

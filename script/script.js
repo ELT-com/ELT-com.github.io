@@ -13,7 +13,7 @@ function showMessage() {
 
 function checkAge()
 {
-    let age = 17;
+    let age = 25;
     if (age >= 18) {
         alert("You are an adult.");
     } else {

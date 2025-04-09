@@ -1,3 +1,4 @@
+/* Added the header to separate the logo hyper links and title of the page*/
 header {
     background-color: lightblue;
     padding: 10px;
@@ -11,7 +12,7 @@ body {
     margin: 1;
     padding: 20px;
 }
-
+/* This is for the different heading stylings */
 h1 {
     color: crimson;
     font-family: Arial, Helvetica, sans-serif;
@@ -58,7 +59,7 @@ img.Logo {
     width: 400px;
     height: 100px;
 }
-
+/* */
   table.rank {
   background-color: darkslategray;
   padding: 10px;
@@ -75,9 +76,40 @@ table.cars {
     font-family: Arial, Helvetica, sans-serif;
     color: lightblue;
 }
+/* This is for my brands of cars and the style */
 h2.brands {
   color: lightblue;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 50px;
 }
 
+.flexbox-container {
+  display: flex;
+  background-color: yellow;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 5px;
+  border-radius: 10px;
+  flex-wrap: wrap;
+}
+
+li.hyper {
+  color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  list-style-type: none;
+  border-color: crimson;
+  border-radius: 5px;
+  padding: 5px;
+}
+
+#idname {
+  color: lightblue;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  list-style-type: none;
+  border-color: crimson;
+  border-radius: 5px;
+  padding: 5px;
+}

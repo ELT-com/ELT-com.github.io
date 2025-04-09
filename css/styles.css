@@ -7,12 +7,12 @@ header {
     border-color: crimson;
 }
 body {
-    background-color: gray;
+    background-color: darkslategray;
     font-family: Arial, Helvetica, sans-serif;
     margin: 1;
     padding: 20px;
 }
-/* This is for the different heading stylings */
+/* This is for the different heading stylings most done in class when learning CSS */
 h1 {
     color: crimson;
     font-family: Arial, Helvetica, sans-serif;
@@ -41,7 +41,7 @@ h3 {
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
 }
-
+/* Added this button styling during java class */ 
  button{
   padding: 5px;
   margin: 5px;
@@ -59,7 +59,7 @@ img.Logo {
     width: 400px;
     height: 100px;
 }
-/* */
+/* created table.rank */
   table.rank {
   background-color: darkslategray;
   padding: 10px;

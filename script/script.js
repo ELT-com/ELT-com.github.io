@@ -34,11 +34,11 @@ function changeColor(){
 
 function changetoluxury()
 {
-    document.getElementById("carSwap").src = "https://vaughanfinetouch.com/wp-content/uploads/2021/07/lc1.jpg";
+    document.getElementById("carSwap").src = "pexels-wardmediauk-3647693.jpg";
 }
 
 function changetodrift()
 {
-    document.getElementById("carSwap").src = "https://hackaday.com/wp-content/uploads/2021/01/Drifting.jpg";
+    document.getElementById("carSwap").src = "pexels-joaquin-delgado-497073239-19795234.jpg";
 }
 

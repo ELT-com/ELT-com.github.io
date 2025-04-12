@@ -118,3 +118,8 @@ li.hyper {
   border-radius: 5px;
   padding: 5px;
 }
+
+
+Attributions for swap cars "A Car Parked Beside airplane" by Bob Ward under Pexels License. 
+https://www.pexels.com/photo/a-car-parked-beside-airplane-3647693/" and "Vintage Car in Drifting Competition" by Joaquin Delgado  under Pexels License. 
+https://www.pexels.com/photo/vintage-car-in-drifting-competition-19795234/"

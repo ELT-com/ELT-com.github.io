@@ -29,7 +29,7 @@ function showMany()
     }
 }
 function changeColor(){
-    document.getElementById("main").style.color = "black";
+    document.getElementById("changeColor").style.color = "White";
 }
 
 function changetoluxury()

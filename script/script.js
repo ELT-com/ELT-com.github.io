@@ -28,9 +28,7 @@ function showMany()
         alert("don't close me! I'm lonely!"+i +" times");
     }
 }
-function changeColor(){
-    document.getElementById("changeColor").style.color = "White";
-}
+
 
 function changetoluxury()
 {
@@ -42,3 +40,10 @@ function changetodrift()
     document.getElementById("carSwap").src = "pexels-joaquin-delgado-497073239-19795234.jpg";
 }
 
+document.getElementById('hoverButton').onmouseover = function() {
+    this.style.background = 'darkslategrey'; // Change the button's background color
+};
+
+document.getElementById('hoverButton').onmouseleave = function() {
+    this.style.background = 'white'; // Reset the button's background color
+};

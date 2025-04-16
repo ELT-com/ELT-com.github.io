@@ -187,4 +187,5 @@ button id="hoverButton"
                 onmouseleave="this.style.background='white'">
             Hover Button
         /button>
+        "Cars Logo" is original work by Evan Till. All rights reserved under CC-BY License 2025.
 commited and pushed to main branch
